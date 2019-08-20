@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks on Cho-Nan Tsai CTO essays and talks</title>
+    <link>https://obicho.github.io/talks/</link>
+    <description>Recent content in Talks on Cho-Nan Tsai CTO essays and talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Aug 2019 00:53:38 -0700</lastBuildDate>
+    
+	<atom:link href="https://obicho.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>T1</title>
+      <link>https://obicho.github.io/talks/t1/</link>
+      <pubDate>Tue, 20 Aug 2019 00:53:38 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/talks/t1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lainto Coalition</title>
+      <link>https://obicho.github.io/talks/panelist-latino-coalition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://obicho.github.io/talks/panelist-latino-coalition/</guid>
+      <description>At a panel, discussing the importance of cybersecurity for small- and mid-size businesses.</description>
+    </item>
+    
+  </channel>
+</rss>

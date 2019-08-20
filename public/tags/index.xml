@@ -10,5 +10,14 @@
 	<atom:link href="https://obicho.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>untagged</title>
+      <link>https://obicho.github.io/tags/untagged/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://obicho.github.io/tags/untagged/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
