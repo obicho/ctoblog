@@ -15,7 +15,6 @@ Big data has impacted fintech in many ways. Some of the most creative applicatio
 Camino Financial is a credit marketplace matching small businesses with affordable business loans, with interest rates starting at 5.49% and unsecured loans up to $500,000 dollars. The Company specializes in originating loans for first-time business borrowers who cannot get a loan from a bank, and provides ongoing credit monitoring and advice to ensure clients improve their business credit in an effort to qualify for a business loan.
 
 #### Schedules:
-
 ** Webinar: Aug.20 2016 (Sat) 11:00 a.m. -- 12:00 p.m.
 This webinar is open to the public.
 
