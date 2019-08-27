@@ -1,11 +1,9 @@
 ---
 title: "How a fintech company ended up next to Skid Row"
-date: 2018-9-1 00:00:00 -0800
-draft: true
+date: 2018-09-01T00:42:36-07:00
+draft: false
 toc: false
 images:
-tags:
-  - untagged
 ---
 *A sickly-looking man, walking like a zombie, crossed my path in the middle of the road as I drove through Skid Row to get to office. While waiting for him to pass, I looked to the left and only to find more disturbing scenes: a few homeless people in a tent shooting drugs up their arms and a soup kitchen filled with people whose despair-stricken eyes were staring right back at me.*
 
