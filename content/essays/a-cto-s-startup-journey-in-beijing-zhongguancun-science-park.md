@@ -17,6 +17,8 @@ As crazy as it might sound, this is how it got started.
 #### Setting Up
 We set up our office in Zhongguancun Science Park because historically it has been a hub for startups in Beijing. Baidu, 36Kr, and many others all had founded their offices within walking distance from our office. Plenty of investors, VCs and incubators also set up shop there.
 
+{{< figure src="/img/posts/beijingmap.png" >}}
+
 We rented a loft office in ZhongguancunDespite the lack of proper physical infrastructure in our loft, we managed to have a productive first week. We cleaned and decorated our loft. We also added a couple more desks and chairs. Eventually, our work place turned to be nice after some serious efforts.
 On the business front, we decided on a name for our service and explored services that help with company registration, banking and permits. My co-founders focused mainly on these.
 
@@ -27,6 +29,9 @@ This process took us almost 2 months because we made the mistake of registering 
 Choosing a cloud-based web service provider in China was no easy feat. Lots of options. In China, we needed to evaluate performance, reliability and complex pricing structures. In the US, everybody in startup uses AWS so it is no brainer. At the time when we started (early 2015), Amazon just started their service in China and they didn't have a very comprehensive and reliable service. So I looked into other service providers. A few big names are Tencent Cloud , Grand Cloud, uCloud and many more. Eventually, we settled on Alibaba's Aliyun. I got to say that they have copied AWS well; their uptime and other complementary services (site monitoring, database, redundancy, firewall solutions, etc) were decent.
 
 #### Hiring
+
+{{< figure src="/img/posts/kbjteam.jpeg" caption="KB Street Team, summer 2015.">}}
+
 KB Street Team, summer 2015.China has a lot of people but good technical staff are hard to come by in Beijing. Basically, this is a problem of supply and demand, just like the Bay Area. Established companies and post Series-A startups offer really good packages to attract talents therefore to find good staff for a small startup, you'd need to have a winning startup story, a charismatic leadership team and some luck.
 
 We started by setting up job postings on Lagou. Our first hire (and many subsequent hires) came through this avenue. This was by far the closest thing to a Dice.com or Stackoverflow job board for techies. The ease-of-use, the modern user interface and its effectiveness caught me by surprise.
@@ -38,6 +43,9 @@ Chinese employees typically don't stick around for very long; on average develop
 Another thing to keep in mind is that if your technology stack consist of relative new technologies, such as React or Meteor, you'd have a tough time finding developers. At the end, we picked Nginx, uWSGI, Django, Python, Memcached, MongoDB, MySQL for our backend and Bootstrap for our front end. It was relatively easy to find coders for these technologies. Php is also commonly used in China.
 
 #### Managing software development
+
+{{< figure src="/img/posts/vendors.png" caption="Technology service providers in China">}}
+
 It pays to think twice before committing to a project management software tool. In the US, most teams would have a ton to choose from: Basecamp, Trello, Asiana, etc. Since we didn't want to deal with hosting this ourselves so Jira or Trac was out of the question. We decided on Trello but it was a mistake. While it worked great in the US, the service was too slow in China. Eventually, we settled on Tower (Chinese solution). It was fast and did the job. It came with a browser version and an app version.
 
 Similarly for source code repo, we ran into performance problems with BitBucket and GitHub in China. So we switched to Git@OSC. The service was a bit unpredictable at times but acceptable for the most part.
@@ -57,10 +65,17 @@ Chinese employees are a little less direct compared to their Western counterpart
 
 When we got to employee number 15, internal communication started to become a major blocking issue. Office politics and mismanagement between departments started to impact us. Finger-pointing, gossiping and backstabbing almost ruined our office culture. We had to reset by firing almost half the team. It was certainly quite an experience.
 
+{{< figure src="/img/posts/mess.jpeg" caption="Mess">}}
+
 One particularly high-ranking employee did not take it well. She used sly tactics to try to derail us. We somehow managed to survive it all because we had connections with someone "important". Something like this typically would result in a law suit here in the States. Over there in Beijing, if you know the right people, considered it done.
 
 #### Living in Beijing
+
+{{< figure src="/img/posts/hotel.jpeg" caption="A tiny, windowless hotel room">}}
+
 Staying in Beijing can be expensive if not planned well in advance. Last minute hotel reservation sometimes got me just a tiny windowless room with a single bed and 3' x 3' shower. I also tried China's AirBnb but I didn't have a very good experience. In addition, Beijing is notorious for its bad traffic and air quality. I didn't want to deal with neither so I always stayed close to the office. Unfortunately, real estate is extremely expensive around Zhongguancun so I didn't have a lot of choice. I ended up crashing in the office a lot. Fortunately, I found staying at a 5-story bathhouse club nearby to be enjoyable. They have an enormous indoor jacuzzi, a sauna area and a massage area. I'd sleep in a hall with giant reclining sofas. After 11pm, it's really quiet. Last but not least, they offer free bathrobe, tooth brush and slippers. They served buffet 4 times a day so I was also well fed (while wearing my bathrobe). All this for just USD 20 a night (massages not included).
+
+{{< figure src="/img/posts/bath.jpeg" caption="A nice bathhouse in Zhonguancun">}}
 
 One thing to be aware of in China is that some smaller motels or newly established business traveler hotels may not have the permit to host a foreigner overnight (your passport will not be accepted). Just check before going would be my advice.
 
@@ -71,6 +86,8 @@ Paying and shopping for things in China are relatively convenient if you have Al
 #### On biz dev & funding
 To get our name out, we attended a lot of startup competitions and conferences. There is always something going on every week in Zhongguancun. We tried to attend whenever we got a chance in the beginning. After a while, I stopped going because we got really busy. There were a lot of startup projects and the quality varied so much. Some were clones of a popular idea that had worked in the US but with minor variations or adaptation for the Chinese market. Eventually, we just focused on attending the main events. We got to the final round in a Techcrunch competition in Beijing and we were second runner-up for a competition organized by Plug And Play China. Most of these competitions took place in Shanghai, Beijing, Hangzhou and Suzhou. I know there was a lot going on in Chengdu, Shenzhen, Guangzhou but we never went to any of those.
 
+{{< figure src="/img/posts/incubator.jpeg" caption="Chuanyebang, an incubator in Beijing. Brand new office space.">}}
+
 Many city governments, incubators and accelerators offer large incentives to startup teams. If you meet the requirements, you can get free money, free office space and free warm intros. We were accepted by an incubator program managed by Chuanyebang and we ended up moving our entire office to the incubator. We got 3 months free rent. They were pumped about us in the beginning and wanted to invest. However, we couldn't agree on the terms so that fell through. We started paying for rent afterwards but it was definitely better than the loft (not really any cheaper but better amenities, and, perhaps, more opportunities). There were a lot of startups in that incubator office. Some of them became our customers. The incubator also organized a lot of events. Last time I went there, there was a visiting convoy of about 10+ startup companies from S. Korea. They came looking for partnerships and opportunities with Chinese startup companies. These events helped increase our exposure and raise our awareness of other startups in competing space.
 
 Since we were in the social media business, we leveraged social media influencers to help us gain exposure. We almost never paid cash for their service since we could offer new followers and fame for them when we promoted events online. However, established celebrity influencers typically would want a lucrative deal.
@@ -80,6 +97,9 @@ Funding in China is not hard if you can show some potential or profit. We launch
 Winning startup competitions did help us get noticed. We sometimes had to see 3–4 investors in a day when things got busy. In these meetings, we would talk through our deck. For me, I'd explain the technology / secret sauce behind our platform. For my co-founders, they'd show the charts and explain the growth potentials. We met representatives pretty much from everywhere: Softbank, Tsinghua Investment group, 36kr, Plug and Play China, etc. We also used funding agencies (FA) to get us intros to investors.
 
 #### Closing
+
+{{< figure src="/img/posts/air.jpeg" caption="Terrible smog in Beijing">}}
+
 Terrible smog in BeijingBeijing is certainly an exciting place to start a venture these days but there will be risks and sacrifices. The startup ecosystem is fairly established. Beijing is just one of the many burgeoning startup hubs, and there are many more within China. As a tech entrepreneur and CTO, I'd recommend going if you are comfortable navigating unfamiliar technology service vendors and rolling up your sleeve when need to. More importantly, to enhance your chances you'd want a trustworthy local co-founder who is intimate with the market you want to tackle. He or she should also be familiar with the startup scene and have the right connections. For me, the only downside of doing it in Beijing is that you'd have to tolerate the bad weather and air pollution. Living expenses can also be quite high. And, not knowing Mandarin in Beijing can be a real pain!
 If you find this article interesting or helpful, please follow me on Twitter.
 

@@ -15,23 +15,33 @@ Today, as a CTO of a financial services startup, I am replicating that experienc
 *So far we have some success with this and this is how we cracked the code.*
 
 #### An Ideal Profile for Our Intern
-Training to become a programming jedi!We open our door to everyone who is passionate about coding and software. Experience is secondary and not necessary, but definitely great to have. Another thing we look for is a deep appreciation in applying technology to solve problems in the lending space. Having an open mind and ability to work under pressure at a startup are some of the important qualities we look for.
+{{< figure src="/img/posts/jedi.png" caption="Training to become a programming jedi" title="Training to become a programming jedi!" >}}
+
+We open our door to everyone who is passionate about coding and software. Experience is secondary and not necessary, but definitely great to have. Another thing we look for is a deep appreciation in applying technology to solve problems in the lending space. Having an open mind and ability to work under pressure at a startup are some of the important qualities we look for.
 
 #### Hiring kick off
+{{< figure src="/img/posts/delight.png" caption="Programming delight" title="Programming delight" >}}
 When we published our first summer internship program online, we received a lot of responses from students in California. Most applicants were from around Los Angeles but quite a number also lived out of state. Receiving an overwhelming number of responses was of course exciting but sifting through this many applicants was no easy feat. We first did a phone screening for those that might be a good fit, we would then send them programming assignments if they seem solid. These were very easy assignments to test applicants understanding of Python, Django and Git. Even though the assignment itself was not hard, many applications did not complete the assignment within the allotted timeframe. In a way, this worked out because it saved us a lot of time in getting to the really motivated people.
 
 We then invited these candidates to our office for an in-person interview. Sometimes, we would give more programming assignments for candidates to do and other times we would try to have candidates meet as many of our full-time staff as possible. What follows would be an internal selection process that mimics 'America Got Talent' or 'American Idol' - a discussion (and sometimes debate) and a voting process follow suit to pick an intern. Once a decision had been made, the candidates would usually begin the internship program in 2 weeks.
+
+{{< figure src="/img/posts/star.gif" >}}
 
 Funny to say, we met some very interesting candidates along the way. Some people were super enthusiastic in the beginning but then disappeared into the wind as soon as they saw the assignment. Some attempted the assignment but struggled to finish - and gave a ton of reason for not being able to finish (e.g. problem with cars, apartment, moving, friends, family, etc). People who did well on the assignment did not necessarily mean they would do well for the in-person interview. Main reason for disqualifying was chemistry mismatch. We had one candidate who came in but lied about their resume. That left a bad taste for sure.
 
 #### Interns Balancing Work and Study
 The execution focus of our program was to provide on-the-job-training for our interns while interns took online courses in computer science from renowned colleges . In a typical week, an intern would participate in our sprints and do tasks from actual projects. They would work closely with our full-time staff and become acquainted with our tech stack and processes. On top of that, we would also arrange trips to attend tech conventions/training and visit to other tech companies in the area. Aside from office work, they would complete the assigned online classes at their own pace. It's an honor system so there would be no need for assignment submission. However, we would regularly give short midterms and finals to see if our interns are absorbing the material. All in all, it's a rather busy schedule!
+
+{{< figure src="/img/posts/byoc.gif" >}}
+
 On the other hand, the philosophy behind the program was to actually test the limits of those that come through our door. A startup environment is absolutely not for everyone and we need to know if a candidate would be a good fit. Some unconventional methods we apply: we would allow our interns to have access to production systems and make them responsible for live deployments. We would also throw them into hot fire when bugs become rampant. We'd also allow them to interface with our 3rd party vendors to follow up issues. We'd also give them freedom to pick tools they'd like to work with to solve problems at hand. Most importantly, we make our candidates accountable for the quality of their work at the company. Needless to say, we would praise and reprimand accordingly.
 
 #### Challenges of the Internship Program
 The biggest risk is of our program is identifying a suitable candidate from the get-go. This is basically a judgement of character and talent potential based on the initial interactions such as testing, interviews and so on. However, it is not always easy so there is a bit of luck involved here.
 
 The other main challenge is the ability of our interns to take on pressure in a startup environment. Every week there is something. I can't remember a week goes by without any production or IT issue of some sort. There are also staff issues which can be tough to deal with. Interns themselves also have personal matters to take care of. Everything happening at once can be overwhelming, leaving people to quit half way.
+
+{{< figure src="/img/posts/challenges.gif" >}}
 
 Program duration is also an important consideration. Too short - your startup risks bringing on inexperienced people full time too soon. Too long - your intern may find opportunities elsewhere. Finding the right duration is an outcome of trial and error. This depends a lot on the startup and the reward structure itself.
 
