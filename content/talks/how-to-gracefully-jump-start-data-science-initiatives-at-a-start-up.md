@@ -5,7 +5,7 @@ draft: false
 toc: false
 images:
 ---
-[Slides for IDEAS  data science talk PPTX](/img/IDEAS-ChoNanTsai-How_to_gracefully_jump_start_data_science_initiatives_at_a_start-up.pptx)
+[Slides for IDEAS data science talk PPTX](/img/IDEAS-ChoNanTsai-How_to_gracefully_jump_start_data_science_initiatives_at_a_start-up.pptx)
 
 [Slides for IDEAS data science talk PDF](/img/IDEAS-ChoNanTsai-How_to_gracefully_jump_start_data_science_initiatives_at_a_start-up.pdf)
 
