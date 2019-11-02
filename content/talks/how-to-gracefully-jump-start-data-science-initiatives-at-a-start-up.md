@@ -5,6 +5,15 @@ draft: false
 toc: false
 images:
 ---
+
+{{< youtube 09VohnA1n1s >}}
+
+![IDEAS Conference Speaking Crowd](/img/talks/ideas3.jpg)
+
+[Conference 1](/img/talks/ideas1.jpg)
+
+[Conference 2](/img/talks/ideas2.jpg)
+
 [Slides for IDEAS data science talk PPTX](/slides/IDEAS_ChoNanTsai_How_to_gracefully_jump_start_data_science_initiatives_at_a_startup.pptx)
 
 [Slides for IDEAS data science talk ODP](/slides/IDEAS_ChoNanTsai_How_to_gracefully_jump_start_data_science_initiatives_at_a_startup.odp)
