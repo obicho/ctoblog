@@ -33,6 +33,24 @@ why does it matter?
 
 ----
 
-## 5. Motivation
+## 5. On college courses
 When you are motivated for the right reasons, everything would be possible.
-{{< vimeo 453515898 >}} 
+{{< vimeo 455386919 >}} 
+
+----
+
+## 6. On internships
+Why getting an internship matters.
+{{< vimeo 459735663 >}}
+
+----
+
+## 7. Motivation
+When you are motivated for the right reasons, everything would be possible.
+{{< vimeo 467135552 >}}
+
+----
+
+## 8. Open Source
+Getting involved in the open source community and leveraging open source technologies is the most fortunate thing that has happened to me in my professional career.
+{{< vimeo 453515898 >}}
