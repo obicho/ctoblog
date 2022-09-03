@@ -11,6 +11,7 @@ images:
 ***
 
 
+
 Many years ago, there was a college kid who was interested in an internship position at a tech startup. So he was invited for an in person interview. Bear in mind, this was all pre-pandemic. He showed up a little bit late, which is frowned upon. And he was wearing a large oversize suit, which I think belonged to his dad, a bright red tie and a pair of white socks. He was asked to implement a Fibonacci number generator. Initially, he was obviously nervous. Basically, he froze with the marker pen in his pen, with his ass facing the interviewer the whole time. But over time he became more and more confident as hints were given. He then met the CEO in his final interview and he was able to clearly articulate his passion in technology. That summer, he did a wonderful project that brought real business impact to the company. The company actually went public shortly after. Fast forward a few years, he got a job as a software engineer right after he graduated.
 
 The career path that I have just described in that story is not uncommon among students who are pursuing a computer science or equivalent technical degree. However, not everyone ends up at the same destination, some people do take longer to get to where they want to be and sometimes people give up too. I am sure many of you are reading this because you want to learn the secrets of how to be successful as a software engineer. Maybe you wonder if you could hack it so that you can skip detours and eliminate unnecessary steps in reaching your goal. **The answer is yes!**
