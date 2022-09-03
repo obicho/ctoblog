@@ -1,0 +1,5 @@
+baseURL = "https://obicho.github.io/"
+languageCode = "en-us"
+title = "Cho-Nan Tsai CTO media interviews, essays and talks"
+theme = "ng"
+sectionPagesMenu = "main"
