@@ -1,138 +1,81 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://obicho.github.io/</loc>
     <lastmod>2022-09-03T00:42:36-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://obicho.github.io/essays/</loc>
     <lastmod>2022-09-03T00:42:36-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://obicho.github.io/essays/hacking-your-tech-career/</loc>
     <lastmod>2022-09-03T00:42:36-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://obicho.github.io/talks/why-you-will-fail-to-build-a-great-social-impact-startup/</loc>
     <lastmod>2022-06-15T00:42:36-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://obicho.github.io/talks/</loc>
     <lastmod>2022-06-15T00:42:36-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://obicho.github.io/essays/the-wire-china-interview-about-beijing-startup-scene/</loc>
     <lastmod>2022-05-26T00:42:36-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://obicho.github.io/talks/la-hacks-how-to-hack-your-career-in-software-engineering/</loc>
     <lastmod>2022-04-15T00:42:36-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://obicho.github.io/talks/challenges-opportunities-in-property-tech/</loc>
     <lastmod>2021-09-15T00:42:36-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://obicho.github.io/bio/</loc>
     <lastmod>2021-09-06T17:17:34-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://obicho.github.io/essays/preparing-for-a-career-in-fintech/</loc>
     <lastmod>2021-07-27T00:42:36-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://obicho.github.io/about/</loc>
     <lastmod>2021-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://obicho.github.io/talks/six-common-traps-in-data/</loc>
     <lastmod>2020-09-30T00:42:36-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://obicho.github.io/talks/masterclass-building-a-career-in-software-engineering/</loc>
     <lastmod>2020-09-06T00:42:36-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://obicho.github.io/talks/crafting-a-life-changing-tech-internship-experience/</loc>
     <lastmod>2020-03-06T00:42:36-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://obicho.github.io/talks/how-to-gracefully-jump-start-data-science-initiatives-at-a-start-up/</loc>
     <lastmod>2019-10-18T00:42:36-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://obicho.github.io/essays/open_letter_reflecting_on_the_recruiting_event_at_caltech/</loc>
     <lastmod>2019-10-14T00:42:36-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://obicho.github.io/essays/transformation/</loc>
     <lastmod>2019-09-26T00:42:36-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://obicho.github.io/talks/a-gentle-introduction-to-quantum-computing/</loc>
     <lastmod>2019-09-09T00:42:36-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://obicho.github.io/essays/feedback-to-columbia-magazine-on-cyberwarfare-article/</loc>
     <lastmod>2019-07-13T00:42:36-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://obicho.github.io/essays/how-a-fintech-company-ended-up-next-to-skid-row/</loc>
     <lastmod>2018-09-01T00:42:36-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://obicho.github.io/essays/a-cto-internship-program-out-of-a-los-angeles-startup/</loc>
     <lastmod>2017-12-13T00:42:36-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://obicho.github.io/talks/panelist-latino-coalition/</loc>
     <lastmod>2017-06-27T00:42:36-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://obicho.github.io/talks/big-data-opportunities-in-the-fintech-space/</loc>
     <lastmod>2016-08-20T00:42:36-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://obicho.github.io/essays/a-cto-s-startup-journey-in-beijing-zhongguancun-science-park/</loc>
     <lastmod>2015-12-03T00:42:36-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://obicho.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://obicho.github.io/tags/</loc>
-    <priority>0</priority>
   </url>
-  
 </urlset>

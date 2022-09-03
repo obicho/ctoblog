@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks on Cho-Nan Tsai CTO media interviews, essays and talks</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Talks on Cho-Nan Tsai CTO media interviews, essays and talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jun 2022 00:42:36 -0700</lastBuildDate>
-    
-	<atom:link href="https://obicho.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 15 Jun 2022 00:42:36 -0700</lastBuildDate><atom:link href="https://obicho.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Columbia Venture Community: Why you will fail to build a great social impact startup</title>
       <link>https://obicho.github.io/talks/why-you-will-fail-to-build-a-great-social-impact-startup/</link>
@@ -27,7 +23,7 @@
       
       <guid>https://obicho.github.io/talks/la-hacks-how-to-hack-your-career-in-software-engineering/</guid>
       <description>About the Talk Why do some people become great software engineers very quickly, commanding high 6 figure salaries and writing code that disrupts industries? In this talk, we examine closely the career path of a software engineer and how to go about hacking it so that one can become good at what they do in a meaningful way.
-Photos from the speaking event / hackathon Thank you so much to everyone who joined us at LA Hacks 2022!</description>
+Photos from the speaking event / hackathon </description>
     </item>
     
     <item>
@@ -56,7 +52,7 @@ We talked casually how I started in fintech with Camino Financial, then how I tr
       
       <guid>https://obicho.github.io/talks/masterclass-building-a-career-in-software-engineering/</guid>
       <description>About the Class With professional experiences in high-flying Fortune 500 companies and tiny nobody start-ups, this battle-scarred CTO shares his wisdom from his journey on becoming a professional software engineer. In this class, you will learn tips to help you navigate this fun-filled, exciting career.
-1. American dream Not your typical American dream.   2. Knowing your passion Developing a true passion can make a giant difference in your career.</description>
+1. American dream Not your typical American dream. 2. Knowing your passion Developing a true passion can make a giant difference in your career. 3. Choosing a programming language So, which one?</description>
     </item>
     
     <item>
