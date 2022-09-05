@@ -1,9 +1,11 @@
 ---
 title: "A CTO's internship program out of a Los Angeles Startup"
 date: 2017-12-13T00:42:36-07:00
+author: "Cho-Nan Tsai"
 draft: false
 toc: false
 images:
+keywords: "startup, internship"
 ---
 
 In 1999 while still a sophomore in college, I was given a chance that completely changed the course of my life. I met Kaoru Hayashi, the CEO and co-founder of a Tokyo tech startup called Digital Garage (now a publicly traded company in Japan) and he offered me a 3-month internship at his startup in Tokyo. Till this date, I still cherish every moment of that internship experience - learning how to code for the first time in Python and Zope, being exposed to open source technologies, meeting up with Joi Ito (then an entrepreneur, now a director at MIT Media Lab), supporting a live web coverage at Fuji Rock concert, hanging out with cool Tokyo teenagers and more. Had I not taken this internship, today I would probably be sitting in a cubicle instead of running a startup. Looking back, it was definitely something I would never trade anything for.

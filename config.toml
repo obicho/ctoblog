@@ -3,3 +3,8 @@ languageCode = "en-us"
 title = "Cho-Nan Tsai CTO media interviews, essays and talks"
 theme = "ng"
 sectionPagesMenu = "main"
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
