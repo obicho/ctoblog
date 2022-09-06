@@ -4,6 +4,8 @@ date: 2022-04-15T00:42:36-07:00
 draft: false
 toc: false
 images:
+categories: [mentorship, speaking]
+tags: [career]
 ---
 
 #### About the Talk

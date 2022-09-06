@@ -4,6 +4,8 @@ date: 2022-06-15T00:42:36-07:00
 draft: false
 toc: false
 images:
+categories: [startup]
+tags: [interview]
 ---
 
 {{< youtube TWcmQs3PXOM >}}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>management on Cho-Nan Tsai CTO media interviews, essays and talks</title>
+    <link>https://obicho.github.io/tags/management/</link>
+    <description>Recent content in management on Cho-Nan Tsai CTO media interviews, essays and talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Sep 2020 00:42:36 -0700</lastBuildDate><atom:link href="https://obicho.github.io/tags/management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Brown Bag Tech Talks: 6 Common Traps in Data</title>
+      <link>https://obicho.github.io/talks/six-common-traps-in-data/</link>
+      <pubDate>Wed, 30 Sep 2020 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/talks/six-common-traps-in-data/</guid>
+      <description>About the Talk Hosted a talk to discuss common issues when a startup is beginning to build out their data projects.</description>
+    </item>
+    
+  </channel>
+</rss>

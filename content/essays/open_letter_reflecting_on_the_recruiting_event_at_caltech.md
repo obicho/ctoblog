@@ -4,6 +4,8 @@ date: 2019-10-14T00:42:36-07:00
 draft: false
 toc: false
 images:
+categories: [startup]
+tags: [recruiting, startup]
 ---
 Hello Team,
 

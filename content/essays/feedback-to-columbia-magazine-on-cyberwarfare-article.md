@@ -4,6 +4,8 @@ date: 2019-07-13T00:42:36-07:00
 draft: false
 toc: false
 images:
+categories: [interview]
+tags: [cybersecurity]
 ---
 
 I have been reading [*Columbia Magazine*](https://magazine.columbia.edu/) for years but this is the first time I have written a feedback to its editor. It was my reaction to a rather interesting interview with [Jason Healy](https://sipa.columbia.edu/faculty-research/faculty-directory/jason-healey), a senior researcher Scholar at Columbia | SIPA (where I spent many hours studying in its library during my undergrad years). The entire interview is [here](https://magazine.columbia.edu/article/age-cyberwarfare).

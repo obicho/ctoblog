@@ -4,6 +4,8 @@ date: 2021-09-15T00:42:36-07:00
 draft: false
 toc: false
 images:
+categories: [speaking]
+tags: [interview, fintech, proptech]
 ---
 
 A few weeks ago, I was invited to be a guest on a high profile fintech podcast called Hitechies. It was fantastic to speak with the host, Pramod Dhakal, who is based in Belgium.

@@ -4,6 +4,8 @@ date: 2020-09-30T00:42:36-07:00
 draft: false
 toc: false
 images:
+categories: [speaking, startup]
+tags: [big data, machine learning, management]
 ---
 
 {{< youtube T5nSK2cRAfk >}}

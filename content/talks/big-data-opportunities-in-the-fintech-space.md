@@ -4,6 +4,8 @@ date: 2016-08-20T00:42:36-07:00
 draft: false
 toc: false
 images:
+categories: [speaking]
+tags: [fintech, big data]
 ---
 
 {{< youtube R7bloHTrak8 >}}

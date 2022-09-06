@@ -4,6 +4,8 @@ date: 2022-05-26T00:42:36-07:00
 draft: false
 toc: false
 images:
+categories: [startup]
+tags: [interview, China, startup]
 ---
 #### Media Interview
 

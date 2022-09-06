@@ -4,6 +4,8 @@ date: 2015-12-03T00:42:36-07:00
 draft: false
 toc: false
 images:
+categories: [startup]
+tags: [China]
 ---
 
 After 10+ hours of flight, I finally arrived in Beijing.

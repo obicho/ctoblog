@@ -4,6 +4,8 @@ date: 2019-10-18T00:42:36-07:00
 draft: false
 toc: false
 images:
+categories: [speaking, startup]
+tags: [big data, data science, AI, fintech]
 ---
 
 {{< youtube 09VohnA1n1s >}}

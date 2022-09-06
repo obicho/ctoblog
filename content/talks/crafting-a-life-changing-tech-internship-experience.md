@@ -4,6 +4,8 @@ date: 2020-03-06T00:42:36-07:00
 draft: false
 toc: false
 images:
+categories: [startup, speaking, mentorship]
+tags: [interview, fintech, internship]
 ---
 
 {{< youtube yf-36DAXr3M >}}

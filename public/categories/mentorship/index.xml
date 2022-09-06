@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mentorship on Cho-Nan Tsai CTO media interviews, essays and talks</title>
+    <link>https://obicho.github.io/categories/mentorship/</link>
+    <description>Recent content in mentorship on Cho-Nan Tsai CTO media interviews, essays and talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Sep 2022 00:42:36 -0700</lastBuildDate><atom:link href="https://obicho.github.io/categories/mentorship/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hacking your tech career</title>
+      <link>https://obicho.github.io/essays/hacking-your-tech-career/</link>
+      <pubDate>Sat, 03 Sep 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/hacking-your-tech-career/</guid>
+      <description>Some time in spring this year, I went to UCLA to recruit interns. While I was there, I gave a talk which ended up attracting quite a few interns working with me. Some people really enjoyed the talk so I decided to clean up my notes and publish them here. Hopefully, you will find it useful, too.
+The Origin:
+Many years ago, there was a college kid who was interested in an internship position at a tech startup.</description>
+    </item>
+    
+    <item>
+      <title>How to hack your career in software engineering</title>
+      <link>https://obicho.github.io/talks/la-hacks-how-to-hack-your-career-in-software-engineering/</link>
+      <pubDate>Fri, 15 Apr 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/talks/la-hacks-how-to-hack-your-career-in-software-engineering/</guid>
+      <description>About the Talk Why do some people become great software engineers very quickly, commanding high 6 figure salaries and writing code that disrupts industries? In this talk, we examine closely the career path of a software engineer and how to go about hacking it so that one can become good at what they do in a meaningful way.
+Photos from the speaking event / hackathon </description>
+    </item>
+    
+    <item>
+      <title>Preparing for a career in fintech: A conversation with Cho-Nan Tsai, a Fintech CTO</title>
+      <link>https://obicho.github.io/essays/preparing-for-a-career-in-fintech/</link>
+      <pubDate>Tue, 27 Jul 2021 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/preparing-for-a-career-in-fintech/</guid>
+      <description>I recently gave an interview on the topic of career preparation in fintech. The interview was conducted by Trilogy Education Service which is the company that&amp;rsquo;s running Fintech Bootcamp program at Columbia Unviersity. The entire interview is here.
+The article/interview was published in summer 2021 on Columbia Engineering School Bootcamp Program website</description>
+    </item>
+    
+    <item>
+      <title>Master Class - Building a career in software</title>
+      <link>https://obicho.github.io/talks/masterclass-building-a-career-in-software-engineering/</link>
+      <pubDate>Sun, 06 Sep 2020 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/talks/masterclass-building-a-career-in-software-engineering/</guid>
+      <description>About the Class With professional experiences in high-flying Fortune 500 companies and tiny nobody start-ups, this battle-scarred CTO shares his wisdom from his journey on becoming a professional software engineer. In this class, you will learn tips to help you navigate this fun-filled, exciting career.
+1. American dream Not your typical American dream. 2. Knowing your passion Developing a true passion can make a giant difference in your career. 3. Choosing a programming language So, which one?</description>
+    </item>
+    
+    <item>
+      <title>Crafting a Life-Changing Tech Internship Experience</title>
+      <link>https://obicho.github.io/talks/crafting-a-life-changing-tech-internship-experience/</link>
+      <pubDate>Fri, 06 Mar 2020 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/talks/crafting-a-life-changing-tech-internship-experience/</guid>
+      <description>Slides PDF
+About the Talk Every great career begins with a dream. However, that alone is often not enough. A dreamer must be given the opportunity to try, to fail and to succeed. In 1999, I was fortunate enough to go to Tokyo for a summer internship. That’s where I met Joi Ito, got exposed to open source software for the first time and much more. It was a life-changing experience and even today I continue to cherish it.</description>
+    </item>
+    
+    <item>
+      <title>Transformation</title>
+      <link>https://obicho.github.io/essays/transformation/</link>
+      <pubDate>Thu, 26 Sep 2019 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/transformation/</guid>
+      <description>A message sent through Slack to the team announcing an internship graduation.
+A long long time ago, there was a boy who wasn’t fortunate in his career. After graduating from college, he had been in transition a few times, working on stuff that was neither meaningful nor rewarding.
+One day, he came across a job posting at Camino for an internship opportunity. In winter, we interviewed him but we didn’t bring him onboard.</description>
+    </item>
+    
+    <item>
+      <title>A CTO&#39;s internship program out of a Los Angeles Startup</title>
+      <link>https://obicho.github.io/essays/a-cto-internship-program-out-of-a-los-angeles-startup/</link>
+      <pubDate>Wed, 13 Dec 2017 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/a-cto-internship-program-out-of-a-los-angeles-startup/</guid>
+      <description>In 1999 while still a sophomore in college, I was given a chance that completely changed the course of my life. I met Kaoru Hayashi, the CEO and co-founder of a Tokyo tech startup called Digital Garage (now a publicly traded company in Japan) and he offered me a 3-month internship at his startup in Tokyo. Till this date, I still cherish every moment of that internship experience - learning how to code for the first time in Python and Zope, being exposed to open source technologies, meeting up with Joi Ito (then an entrepreneur, now a director at MIT Media Lab), supporting a live web coverage at Fuji Rock concert, hanging out with cool Tokyo teenagers and more.</description>
+    </item>
+    
+  </channel>
+</rss>

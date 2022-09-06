@@ -4,6 +4,8 @@ date: 2022-09-03T00:42:36-07:00
 draft: false
 toc: false
 images:
+categories: [mentorship]
+tags: [startup, career]
 ---
 
 *Some time in spring this year, I went to UCLA to recruit interns. While I was there, I gave a talk which ended up attracting quite a few interns working with me. Some people really enjoyed the talk so I decided to clean up my notes and publish them here. Hopefully, you will find it useful, too.*

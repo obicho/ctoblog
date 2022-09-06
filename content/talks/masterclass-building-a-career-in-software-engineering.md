@@ -4,6 +4,8 @@ date: 2020-09-06T00:42:36-07:00
 draft: false
 toc: false
 images:
+categories: [mentorship]
+tags: [interview]
 ---
 
 #### About the Class

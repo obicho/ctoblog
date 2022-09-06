@@ -4,6 +4,8 @@ date: 2019-09-09T00:42:36-07:00
 draft: false
 toc: false
 images:
+categories: [speaking]
+tags: [quantum computing]
 ---
 
 {{< youtube hQI-E_wHR8Y >}}

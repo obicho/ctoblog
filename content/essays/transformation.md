@@ -4,6 +4,8 @@ date: 2019-09-26T00:42:36-07:00
 draft: false
 toc: false
 images:
+categories: [mentorship]
+tags: [internship, startup]
 ---
 
 _A message sent through Slack to the team announcing an internship graduation_.
