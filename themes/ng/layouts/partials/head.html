@@ -9,6 +9,11 @@
 <meta name="robots" content="noodp" />
 <link rel="canonical" href="{{ .Permalink }}" />
 
+<!-- google meta -->
+{{ if .IsHome }}
+<meta name="google-site-verification" content="Sz15L3tMbbPqbGnBC3RdA9pLZUI0F2VvtpU7AyuDp00" />
+{{ end }}
+
 {{ block "title" . }}
 <title>
     {{ if .IsHome }}
