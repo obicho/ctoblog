@@ -1,13 +1,13 @@
 ---
 title: "Bio"
-date: 2021-09-06T17:17:34-07:00
+date: 2022-09-06T17:17:34-07:00
 draft: false
 
 ---
 
 Cho-Nan Tsai is an experienced product-creator and company-builder who has helped create defining infrastructure of transformative, enduring businesses in Fintech. He enjoys building and advising companies in fintech, proptech and cybersecurity. He is an expert in online lending, payment, credit card issuance, blockchain and cryptocurrency. 
 
-Currently, he is the Chief Technology Officer at *Dunmore Capital*. Collaborating with a team of technologists and real estate veterans, he is building the technology foundation of an online property financing company for serving professional real estate investors in the United States.
+Currently, he is the Chief Technology Officer at fintech company. Collaborating with a team of technologists and real estate veterans, he is building the technology foundation of an online property financing company for serving professional real estate investors in the United States.
 
 Prior to joining *Dunmore*, Cho-Nan spent 5 years at *Camino Financial* as its CTO, building a track record of identifying and implementing strategic tech initiatives. As an early founding team member, he helped grow the business from the ground up, making it one of the most recognizable online small business lenders in the U.S. Hispanic market. 
 
