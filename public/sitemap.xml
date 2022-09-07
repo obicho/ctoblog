@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://obicho.github.io/bio/</loc>
+    <lastmod>2022-09-06T17:17:34-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://obicho.github.io/tags/career/</loc>
     <lastmod>2022-09-03T00:42:36-07:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -94,11 +99,6 @@
   </url><url>
     <loc>https://obicho.github.io/tags/proptech/</loc>
     <lastmod>2021-09-15T00:42:36-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://obicho.github.io/bio/</loc>
-    <lastmod>2021-09-06T17:17:34-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
