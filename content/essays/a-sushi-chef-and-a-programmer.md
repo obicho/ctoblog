@@ -13,7 +13,7 @@ Lately, I have been watching Michelin star sushi chefs on Youtube preparing fish
 
 It dawned on me that a 10x software engineer is not too different from a Michelin star sushi chef.
 
-A 10x software engineer would make sure that the coding environment is optimized so that best code can be written efficiently. This means the linting is there, debugger is available, etc. This is akin to a sushi chef sharping the knives to be used at a sushi bar.
+A 10x software engineer would make sure that the coding environment is optimized so that best code can be written efficiently. This means the linting is there, debugger is available, etc. This is akin to a sushi chef setting up his work station, preparing his _nori_, sharpening the knives to be used at a sushi bar.
 
 A 10x software engineer would love showing off his or her code through a pull request and welcome feedback. This is akin to a sushi chef making sushi for customers and watching them eat with pleasure.
 

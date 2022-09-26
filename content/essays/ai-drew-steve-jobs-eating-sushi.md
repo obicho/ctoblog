@@ -13,7 +13,7 @@ Today I use an AI tool to draw a picture of Steve Jobs eating sushi. This is wha
 
 ![AI creating an image of Steve Jobs eating sushi](/img/posts/steve-jobs-eating-sushi-ai.png)
 
-Remembering what I read in _Steve Jobs_ by _Walter Isaacson_, Jobs' favorite food was sushi. Trust me, I have tried on a number of different AI image generator sites, including DALL.E 2 / OpenAI. This is probably the best looking one so far.
+Remembering what I read in _Steve Jobs_ by _Walter Isaacson_, Jobs' favorite food was sushi. Although Jobs had a turbulent relationship with Lisa, he often recounted the good times while eating sushi in Tokyo with his daughter. Trust me, I have tried on a number of different AI image generator sites, including DALL.E 2 / OpenAI. This is probably the best looking one so far.
 
 Because AI is not shy about making mistakes, AI is encroaching onto human territory and knowledge domains. What are we going to do about it?
 
