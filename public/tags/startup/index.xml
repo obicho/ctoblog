@@ -6,7 +6,30 @@
     <description>Recent content in startup on Cho-Nan Tsai CTO media interviews, essays and talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Sep 2022 00:42:36 -0700</lastBuildDate><atom:link href="https://obicho.github.io/tags/startup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Oct 2022 00:42:36 -0700</lastBuildDate><atom:link href="https://obicho.github.io/tags/startup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Time is of the essence</title>
+      <link>https://obicho.github.io/essays/time-is-of-the-essence/</link>
+      <pubDate>Fri, 07 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/time-is-of-the-essence/</guid>
+      <description>Did you know that AWS Lambda service bills at a granularity of 1ms. (Lambda is a compute service that lets you run code without provisioning or managing servers.)
+Think about that for a second.
+It’s like you don’t need to pay for a 1 gallon fresh-squeezed orange juice from Costco. Instead, you just pay for what you drink, even if it is a tiny sip. Freshness guaranteed, every time.
+There are many advantages to using something like AWS Lamda.</description>
+    </item>
+    
+    <item>
+      <title>Spicy duck tongue and stinky tofu</title>
+      <link>https://obicho.github.io/essays/spicy-duck-tongue-and-stinky-tofu/</link>
+      <pubDate>Tue, 04 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/spicy-duck-tongue-and-stinky-tofu/</guid>
+      <description>Before the pandemic, shopping for groceries used to be a giant production for my family. Every weekend, we would set aside a few hours, load our kids into our car, bring our shopping bags, pick some groceries at a local supermarket, bag everything, drive home, unload everything from the car, etc. And, repeat all over the following weekend. Argh!
+Then, came the pandemic, and everything changed!
+Instacart and other grocery shopping startups really started to enjoy a boom because nobody was going out.</description>
+    </item>
+    
     <item>
       <title>CEO of tomorrow</title>
       <link>https://obicho.github.io/essays/ceo-of-tomorrow/</link>

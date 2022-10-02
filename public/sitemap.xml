@@ -2,37 +2,132 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://obicho.github.io/categories/</loc>
-    <lastmod>2022-09-29T00:42:36-07:00</lastmod>
+    <loc>https://obicho.github.io/tags/aws/</loc>
+    <lastmod>2022-10-07T00:42:36-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://obicho.github.io/essays/ceo-of-tomorrow/</loc>
-    <lastmod>2022-09-29T00:42:36-07:00</lastmod>
+    <loc>https://obicho.github.io/categories/</loc>
+    <lastmod>2022-10-07T00:42:36-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://obicho.github.io/</loc>
-    <lastmod>2022-09-29T00:42:36-07:00</lastmod>
+    <lastmod>2022-10-07T00:42:36-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://obicho.github.io/essays/</loc>
-    <lastmod>2022-09-29T00:42:36-07:00</lastmod>
+    <lastmod>2022-10-07T00:42:36-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://obicho.github.io/tags/product/</loc>
+    <lastmod>2022-10-07T00:42:36-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://obicho.github.io/categories/product/</loc>
+    <lastmod>2022-10-07T00:42:36-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://obicho.github.io/tags/startup/</loc>
-    <lastmod>2022-09-29T00:42:36-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://obicho.github.io/categories/startup/</loc>
-    <lastmod>2022-09-29T00:42:36-07:00</lastmod>
+    <lastmod>2022-10-07T00:42:36-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://obicho.github.io/tags/</loc>
+    <lastmod>2022-10-07T00:42:36-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://obicho.github.io/essays/time-is-of-the-essence/</loc>
+    <lastmod>2022-10-07T00:42:36-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://obicho.github.io/tags/entrepreneurship/</loc>
+    <lastmod>2022-10-06T00:42:36-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://obicho.github.io/essays/real-estate-moms-and-dads/</loc>
+    <lastmod>2022-10-06T00:42:36-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://obicho.github.io/tags/realestateagentlife/</loc>
+    <lastmod>2022-10-06T00:42:36-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://obicho.github.io/categories/startup/</loc>
+    <lastmod>2022-10-06T00:42:36-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://obicho.github.io/tags/america/</loc>
+    <lastmod>2022-10-05T00:42:36-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://obicho.github.io/essays/crumbling-infrastructure-in-america/</loc>
+    <lastmod>2022-10-05T00:42:36-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://obicho.github.io/tags/government/</loc>
+    <lastmod>2022-10-05T00:42:36-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://obicho.github.io/tags/infrastructure/</loc>
+    <lastmod>2022-10-05T00:42:36-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://obicho.github.io/categories/infrastructure/</loc>
+    <lastmod>2022-10-05T00:42:36-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://obicho.github.io/tags/grocerytech/</loc>
+    <lastmod>2022-10-04T00:42:36-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://obicho.github.io/essays/spicy-duck-tongue-and-stinky-tofu/</loc>
+    <lastmod>2022-10-04T00:42:36-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://obicho.github.io/tags/brucelee/</loc>
+    <lastmod>2022-10-03T00:42:36-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://obicho.github.io/tags/cybersecurity/</loc>
+    <lastmod>2022-10-03T00:42:36-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://obicho.github.io/categories/cybersecurity/</loc>
+    <lastmod>2022-10-03T00:42:36-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://obicho.github.io/essays/cybersecurity-at-uber/</loc>
+    <lastmod>2022-10-03T00:42:36-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://obicho.github.io/tags/hacking/</loc>
+    <lastmod>2022-10-03T00:42:36-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://obicho.github.io/essays/ceo-of-tomorrow/</loc>
     <lastmod>2022-09-29T00:42:36-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -229,11 +324,6 @@
   </url><url>
     <loc>https://obicho.github.io/tags/quantum-computing/</loc>
     <lastmod>2019-09-09T00:42:36-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://obicho.github.io/tags/cybersecurity/</loc>
-    <lastmod>2019-07-13T00:42:36-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>

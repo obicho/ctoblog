@@ -17,4 +17,4 @@ It’s like you don’t need to pay for a 1 gallon fresh-squeezed orange juice f
 
 There are many advantages to using something like AWS Lamda. On demand service billing is going to enable more customers to try your service without committing to a year-long contract (many dated enterprise financial software is still billing like it once were 30 years ago). Your infrastructure is probably going to be easier to maintain since AWS automates most of it. You will have less costly overhead since you don’t need to keep a server up when your users are asleep.
 
-It is pay as you go at its most granular level that I have seen. Is your infrastructure and product offering like this?
+It is _pay as you go_ at its most granular level that I have seen. Is your infrastructure and product offering similar in nature?

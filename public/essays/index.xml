@@ -6,7 +6,57 @@
     <description>Recent content in Essays on Cho-Nan Tsai CTO media interviews, essays and talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Sep 2022 00:42:36 -0700</lastBuildDate><atom:link href="https://obicho.github.io/essays/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Oct 2022 00:42:36 -0700</lastBuildDate><atom:link href="https://obicho.github.io/essays/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Time is of the essence</title>
+      <link>https://obicho.github.io/essays/time-is-of-the-essence/</link>
+      <pubDate>Fri, 07 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/time-is-of-the-essence/</guid>
+      <description>Did you know that AWS Lambda service bills at a granularity of 1ms. (Lambda is a compute service that lets you run code without provisioning or managing servers.)
+Think about that for a second.
+It’s like you don’t need to pay for a 1 gallon fresh-squeezed orange juice from Costco. Instead, you just pay for what you drink, even if it is a tiny sip. Freshness guaranteed, every time.
+There are many advantages to using something like AWS Lamda.</description>
+    </item>
+    
+    <item>
+      <title>Real Estate Agent Moms (dads)</title>
+      <link>https://obicho.github.io/essays/real-estate-moms-and-dads/</link>
+      <pubDate>Thu, 06 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/real-estate-moms-and-dads/</guid>
+      <description>Being a real estate agent has always been a good option for people who want to generate income while maintaining a flexible schedule. Often, they only work on weekends to show houses and then at night, after kids go to sleep, they would write up the contracts. During the week, they socialize and meet people physically. Agents too invest time on digital campaigns over emails and social media to bring about awareness.</description>
+    </item>
+    
+    <item>
+      <title>Crumbling infrastructure in America</title>
+      <link>https://obicho.github.io/essays/crumbling-infrastructure-in-america/</link>
+      <pubDate>Wed, 05 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/crumbling-infrastructure-in-america/</guid>
+      <description>This summer we took Amtrak from Los Angeles to San Francisco. What was supposed to be a joyful, scenic ride turned out to be a laborious trip. The train ride going north took 10 hours. Although we had bought tickets online, it was not clear to me why we were only assigned seats once we boarded the train. The conductor scanned the barcode on my ticket, and, assuming the ticket was valid, placed a little slip of paper above my seat that indicated what stop we were getting off at.</description>
+    </item>
+    
+    <item>
+      <title>Spicy duck tongue and stinky tofu</title>
+      <link>https://obicho.github.io/essays/spicy-duck-tongue-and-stinky-tofu/</link>
+      <pubDate>Tue, 04 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/spicy-duck-tongue-and-stinky-tofu/</guid>
+      <description>Before the pandemic, shopping for groceries used to be a giant production for my family. Every weekend, we would set aside a few hours, load our kids into our car, bring our shopping bags, pick some groceries at a local supermarket, bag everything, drive home, unload everything from the car, etc. And, repeat all over the following weekend. Argh!
+Then, came the pandemic, and everything changed!
+Instacart and other grocery shopping startups really started to enjoy a boom because nobody was going out.</description>
+    </item>
+    
+    <item>
+      <title>Cybersecurity at Uber (or lack thereof) and Be Like Water</title>
+      <link>https://obicho.github.io/essays/cybersecurity-at-uber/</link>
+      <pubDate>Mon, 03 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/cybersecurity-at-uber/</guid>
+      <description>Recently, Uber had a major cybersecurity incident. The hacker was able to gain access to everything, including their Amazon Web Service administrator account. This could have been really bad. Given Uber’s revenue was $17 billion (with a B) in 2021, that means – $48 million worth of revenue would have been lost a day if the hacker had shut the servers down! Imagine all those Uber drivers not being able to drive and everyday passengers getting stuck everywhere.</description>
+    </item>
+    
     <item>
       <title>CEO of tomorrow</title>
       <link>https://obicho.github.io/essays/ceo-of-tomorrow/</link>
