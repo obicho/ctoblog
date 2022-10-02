@@ -1,5 +1,5 @@
 ---
-title: "A omakase sushi chef and a software engineer"
+title: "An omakase sushi chef and a software engineer"
 date: 2022-09-26T00:42:36-07:00
 author: "Cho-Nan Tsai"
 draft: false

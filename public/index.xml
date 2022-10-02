@@ -6,7 +6,18 @@
     <description>Recent content on Cho-Nan Tsai CTO media interviews, essays and talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Sep 2022 00:42:36 -0700</lastBuildDate><atom:link href="https://obicho.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Sep 2022 00:42:36 -0700</lastBuildDate><atom:link href="https://obicho.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CEO of tomorrow</title>
+      <link>https://obicho.github.io/essays/ceo-of-tomorrow/</link>
+      <pubDate>Thu, 29 Sep 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/ceo-of-tomorrow/</guid>
+      <description>What percentage of Y Combinator founders are technical?
+Nobody really keeps track of this data. I looked. However, based on my research, it seems that typically at least one co-founder is more on the technical side within a startup. Anecdotally, I happen to know quite a few co-founders who are engineers by training and got funding from Mucker Capital.
+As more businesses become accessible online, it is almost impossible to ignore the fact that a person with a technical background is better suited to run a company.</description>
+    </item>
+    
     <item>
       <title>AI drew Steve Jobs eating sushi</title>
       <link>https://obicho.github.io/essays/ai-drew-steve-jobs-eating-sushi/</link>
@@ -28,7 +39,7 @@ Needless to say, there is plenty of options in the market place &amp;ndash; ever
     </item>
     
     <item>
-      <title>A omakase sushi chef and a software engineer</title>
+      <title>An omakase sushi chef and a software engineer</title>
       <link>https://obicho.github.io/essays/a-sushi-chef-and-a-programmer/</link>
       <pubDate>Mon, 26 Sep 2022 00:42:36 -0700</pubDate>
       
