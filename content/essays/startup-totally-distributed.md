@@ -1,5 +1,5 @@
 ---
-title: "Startup, Totally Distributed"
+title: "Startup, totally distributed"
 date: 2022-10-14T00:42:36-07:00
 author: "Cho-Nan Tsai"
 draft: false

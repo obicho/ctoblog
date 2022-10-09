@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>opensource on Cho-Nan Tsai CTO media interviews, essays and talks</title>
+    <link>https://obicho.github.io/categories/opensource/</link>
+    <description>Recent content in opensource on Cho-Nan Tsai CTO media interviews, essays and talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Oct 2022 00:42:36 -0700</lastBuildDate><atom:link href="https://obicho.github.io/categories/opensource/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git and blockchain</title>
+      <link>https://obicho.github.io/essays/git-and-blockchain/</link>
+      <pubDate>Thu, 13 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/git-and-blockchain/</guid>
+      <description>Both git and blockchain share the same DNA; they are all built on top of a data structure called Merkle Tree.
+A Merkle tree is a tree structure where each node of the tree has an identifier that&amp;rsquo;s the hash of its contents
+Git is used by software developers around the world to work distributedly so that collaboration among them becomes manageable.This technology is widely adopted, is indispensable and has a good reputation.</description>
+    </item>
+    
+  </channel>
+</rss>
