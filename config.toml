@@ -4,6 +4,7 @@ title = "Cho-Nan Tsai CTO media interviews, essays and talks"
 theme = "ng"
 sectionPagesMenu = "main"
 buildFuture = true
+googleAnalytics = 'G-R0SH0MD853'
 
 [sitemap]
   changefreq = "weekly"
