@@ -6,9 +6,67 @@
     <description>Recent content in Essays on Cho-Nan Tsai CTO media interviews, essays and talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Oct 2022 00:42:36 -0700</lastBuildDate><atom:link href="https://obicho.github.io/essays/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Oct 2022 00:42:36 -0700</lastBuildDate><atom:link href="https://obicho.github.io/essays/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Startup, Totally Distributed</title>
+      <title>Deep fake videos used to defraud&#34;</title>
+      <link>https://obicho.github.io/essays/deep-fake-videos-used-to-defraud/</link>
+      <pubDate>Fri, 21 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/deep-fake-videos-used-to-defraud/</guid>
+      <description>Have you been duped by deep fake videos during the hiring process? Earlier year, we almost did, while we were hiring developers.
+We put out an Indeed job posting, and we started getting job inquiries almost right away. After we started screening, junior screeners reported seeing something odd.
+Some said that candidates’ enunciation did not match the shape of mouths in the Zoom video. Some complained the lag was so bad that it was impossible to conduct a video interview.</description>
+    </item>
+    
+    <item>
+      <title>Career planning, or not</title>
+      <link>https://obicho.github.io/essays/career-planning-or-not/</link>
+      <pubDate>Thu, 20 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/career-planning-or-not/</guid>
+      <description>The amazing thing about meeting people in tech is that you can put people in two camps. The first camp is the founder type: they have a strong vision and want to build something to change the world. You can feel the energy blasting from every cell when they speak.
+People in the second camp are professionals. They work for wonderful corporations and they are masters in what they do. Every step of the way, they work hard to build their career.</description>
+    </item>
+    
+    <item>
+      <title>Modern “Crime and Punishment” - Joe Sullivan and Avraham Eisenberg</title>
+      <link>https://obicho.github.io/essays/modern-crime-and-punishment-joe-sullivan-and-avraham-eisenberg/</link>
+      <pubDate>Wed, 19 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/modern-crime-and-punishment-joe-sullivan-and-avraham-eisenberg/</guid>
+      <description>News headline #1: Oct 5th 2022
+Former Chief Security Officer Of Uber Convicted Of Federal Charges For Covering Up Data Breach Involving Millions Of Uber User Records
+News Headline #2: Oct 15th 2022
+Hacker behind the Mango Markets exploit keeps $47M and returns $67M to the DeFi platform after a Mango community vote; he claims his actions were legal
+A high profile CISO, Sullivan, tried to do his job but ended up getting convicted in federal court.</description>
+    </item>
+    
+    <item>
+      <title>Bye bye, personal privacy</title>
+      <link>https://obicho.github.io/essays/bye-bye-personal-privacy/</link>
+      <pubDate>Tue, 18 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/bye-bye-personal-privacy/</guid>
+      <description>It is hard to stop devices tracking humans. Devices are everywhere, whether you want it or not.
+If you use a phone, you are going to get tracked.
+If you use Alexa, you are going to get tracked.
+If you use a Chromecast or Amazon fire TV stick, you are going to get tracked.
+If you have IoT devices, you are going to get tracked.
+If you live in a smart city with a ton of surveillance cameras, like London or Paris, you are going to get tracked.</description>
+    </item>
+    
+    <item>
+      <title>Myths about data scientists</title>
+      <link>https://obicho.github.io/essays/myths-about-data-scientists/</link>
+      <pubDate>Mon, 17 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/myths-about-data-scientists/</guid>
+      <description>You can manage data scientists like you manage software developers. I made the mistake of assigning story points on tasks for data scientists to work on. That didn&amp;rsquo;t work at all. Data scientists do not work well in those capacities. They are better suited in applying themselves to experiments. That means setting up a hypothesis and figuring out if it is true or false.
+Data scientists don’t need to be a business domain expert.</description>
+    </item>
+    
+    <item>
+      <title>Startup, totally distributed</title>
       <link>https://obicho.github.io/essays/startup-totally-distributed/</link>
       <pubDate>Fri, 14 Oct 2022 00:42:36 -0700</pubDate>
       
