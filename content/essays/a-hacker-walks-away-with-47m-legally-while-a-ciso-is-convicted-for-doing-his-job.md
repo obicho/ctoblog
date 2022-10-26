@@ -1,5 +1,5 @@
 ---
-title: "Modern “Crime and Punishment” - Joe Sullivan and Avraham Eisenberg"
+title: "A hacker walks away with $47M legally while a CISO is convicted for doing his job"
 date: 2022-10-19T00:42:36-07:00
 author: "Cho-Nan Tsai"
 draft: false
@@ -8,6 +8,8 @@ images:
 categories: [cybercrimes]
 tags: [cybersecurity, ciso, web3, defi]
 ---
+A Modern “Crime and Punishment” interpretation - Joe Sullivan and Avraham Eisenberg.
+
 News headline #1: Oct 5th 2022
 
 > Former Chief Security Officer Of Uber Convicted Of Federal Charges For Covering Up Data Breach Involving Millions Of Uber User Records

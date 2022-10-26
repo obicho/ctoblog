@@ -1,5 +1,5 @@
 ---
-title: Deep fake videos used to defraud"
+title: "Deep fake videos used to defraud"
 date: 2022-10-21T00:42:36-07:00
 author: "Cho-Nan Tsai"
 draft: false

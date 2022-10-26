@@ -6,9 +6,19 @@
     <description>Recent content in career on Cho-Nan Tsai CTO media interviews, essays and talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Oct 2022 00:42:36 -0700</lastBuildDate><atom:link href="https://obicho.github.io/tags/career/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Oct 2022 00:42:36 -0700</lastBuildDate><atom:link href="https://obicho.github.io/tags/career/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Deep fake videos used to defraud&#34;</title>
+      <title>Path to CTO</title>
+      <link>https://obicho.github.io/essays/path-to-cto/</link>
+      <pubDate>Tue, 25 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/path-to-cto/</guid>
+      <description>I have been meeting a lot of great technical leaders lately. Not a single one of them had the same career path. Here is an ascii illustration of various possible ways you can become a CTO. It could be useful for someone navigating their career in software technology.
+cto, public company cto, private company cto, divisional, private company svp of technology svp of engineering vp of technology vp of engineering director of technology director of engineering director of product mgmt engineering manager CIO sr tech lead IT SVP tech lead IT VP architect IT Director principle engineer IT Project Manager evangelist cto, startup staff engineer IT Program Manager solution engineer project manager senior software engineer senior backend senior frontend sr devops sr full stack IT Manager sales engineer technical program manager software engineer backend engineer frontend engineer devops engineer fullustack IT Helpdesk developer advocate product manager junior software engineer intern ▲ │ ┌───┴───┐ │START │ │ │ └───────┘ </description>
+    </item>
+    
+    <item>
+      <title>Deep fake videos used to defraud</title>
       <link>https://obicho.github.io/essays/deep-fake-videos-used-to-defraud/</link>
       <pubDate>Fri, 21 Oct 2022 00:42:36 -0700</pubDate>
       

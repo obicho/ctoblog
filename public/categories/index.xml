@@ -6,22 +6,31 @@
     <description>Recent content in Categories on Cho-Nan Tsai CTO media interviews, essays and talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Oct 2022 00:42:36 -0700</lastBuildDate><atom:link href="https://obicho.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Oct 2022 00:42:36 -0700</lastBuildDate><atom:link href="https://obicho.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>cybercrimes</title>
-      <link>https://obicho.github.io/categories/cybercrimes/</link>
-      <pubDate>Fri, 21 Oct 2022 00:42:36 -0700</pubDate>
+      <title>ai</title>
+      <link>https://obicho.github.io/categories/ai/</link>
+      <pubDate>Wed, 26 Oct 2022 00:42:36 -0700</pubDate>
       
-      <guid>https://obicho.github.io/categories/cybercrimes/</guid>
+      <guid>https://obicho.github.io/categories/ai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mentorship</title>
       <link>https://obicho.github.io/categories/mentorship/</link>
-      <pubDate>Thu, 20 Oct 2022 00:42:36 -0700</pubDate>
+      <pubDate>Tue, 25 Oct 2022 00:42:36 -0700</pubDate>
       
       <guid>https://obicho.github.io/categories/mentorship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cybercrimes</title>
+      <link>https://obicho.github.io/categories/cybercrimes/</link>
+      <pubDate>Fri, 21 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/categories/cybercrimes/</guid>
       <description></description>
     </item>
     
@@ -85,15 +94,6 @@
       <pubDate>Mon, 03 Oct 2022 00:42:36 -0700</pubDate>
       
       <guid>https://obicho.github.io/categories/cybersecurity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AI</title>
-      <link>https://obicho.github.io/categories/ai/</link>
-      <pubDate>Wed, 28 Sep 2022 00:42:36 -0700</pubDate>
-      
-      <guid>https://obicho.github.io/categories/ai/</guid>
       <description></description>
     </item>
     

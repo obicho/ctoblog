@@ -6,9 +6,43 @@
     <description>Recent content in Essays on Cho-Nan Tsai CTO media interviews, essays and talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Oct 2022 00:42:36 -0700</lastBuildDate><atom:link href="https://obicho.github.io/essays/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Oct 2022 00:42:36 -0700</lastBuildDate><atom:link href="https://obicho.github.io/essays/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Deep fake videos used to defraud&#34;</title>
+      <title>I used AI to create this music track</title>
+      <link>https://obicho.github.io/essays/ai-cinematic-track/</link>
+      <pubDate>Wed, 26 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/ai-cinematic-track/</guid>
+      <description>I don&amp;rsquo;t know any musical instrument or how to read a score.
+I never had any type of music education.
+I may even be a bit tone deaf.
+So I just went to an AI program and clicked a button.
+And, this came out.
+I thought this may be good enough for the music to a game trailer.
+voilà.</description>
+    </item>
+    
+    <item>
+      <title>Path to CTO</title>
+      <link>https://obicho.github.io/essays/path-to-cto/</link>
+      <pubDate>Tue, 25 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/path-to-cto/</guid>
+      <description>I have been meeting a lot of great technical leaders lately. Not a single one of them had the same career path. Here is an ascii illustration of various possible ways you can become a CTO. It could be useful for someone navigating their career in software technology.
+cto, public company cto, private company cto, divisional, private company svp of technology svp of engineering vp of technology vp of engineering director of technology director of engineering director of product mgmt engineering manager CIO sr tech lead IT SVP tech lead IT VP architect IT Director principle engineer IT Project Manager evangelist cto, startup staff engineer IT Program Manager solution engineer project manager senior software engineer senior backend senior frontend sr devops sr full stack IT Manager sales engineer technical program manager software engineer backend engineer frontend engineer devops engineer fullustack IT Helpdesk developer advocate product manager junior software engineer intern ▲ │ ┌───┴───┐ │START │ │ │ └───────┘ </description>
+    </item>
+    
+    <item>
+      <title>Top 10 books for engineering managers</title>
+      <link>https://obicho.github.io/essays/top-10-reading-list-for-eng-mgr/</link>
+      <pubDate>Mon, 24 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/top-10-reading-list-for-eng-mgr/</guid>
+      <description> The Mythical Man Month The Pragmatic Programmer Clean Code Peopleware Code Complete The Lean Startup The Cold Start Problem The Effective Executive The Culture Code Turn The Ship Around </description>
+    </item>
+    
+    <item>
+      <title>Deep fake videos used to defraud</title>
       <link>https://obicho.github.io/essays/deep-fake-videos-used-to-defraud/</link>
       <pubDate>Fri, 21 Oct 2022 00:42:36 -0700</pubDate>
       
@@ -29,16 +63,16 @@ People in the second camp are professionals. They work for wonderful corporation
     </item>
     
     <item>
-      <title>Modern “Crime and Punishment” - Joe Sullivan and Avraham Eisenberg</title>
-      <link>https://obicho.github.io/essays/modern-crime-and-punishment-joe-sullivan-and-avraham-eisenberg/</link>
+      <title>A hacker walks away with $47M legally while a CISO is convicted for doing his job</title>
+      <link>https://obicho.github.io/essays/a-hacker-walks-away-with-47m-legally-while-a-ciso-is-convicted-for-doing-his-job/</link>
       <pubDate>Wed, 19 Oct 2022 00:42:36 -0700</pubDate>
       
-      <guid>https://obicho.github.io/essays/modern-crime-and-punishment-joe-sullivan-and-avraham-eisenberg/</guid>
-      <description>News headline #1: Oct 5th 2022
+      <guid>https://obicho.github.io/essays/a-hacker-walks-away-with-47m-legally-while-a-ciso-is-convicted-for-doing-his-job/</guid>
+      <description>A Modern “Crime and Punishment” interpretation - Joe Sullivan and Avraham Eisenberg.
+News headline #1: Oct 5th 2022
 Former Chief Security Officer Of Uber Convicted Of Federal Charges For Covering Up Data Breach Involving Millions Of Uber User Records
 News Headline #2: Oct 15th 2022
-Hacker behind the Mango Markets exploit keeps $47M and returns $67M to the DeFi platform after a Mango community vote; he claims his actions were legal
-A high profile CISO, Sullivan, tried to do his job but ended up getting convicted in federal court.</description>
+Hacker behind the Mango Markets exploit keeps $47M and returns $67M to the DeFi platform after a Mango community vote; he claims his actions were legal</description>
     </item>
     
     <item>
