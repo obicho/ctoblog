@@ -7,7 +7,7 @@ draft: false
 
 Cho-Nan Tsai is an experienced product-creator and company-builder who has helped create defining infrastructure of transformative, enduring businesses in AI and Fintech.
 
-Currently, he is the Founder at Hyperionsoft, an AI consulting firm. Collaborating with a team of AI and data experts, he is reinventing the way we live and work.
+Currently, he is the CEO and President at Hyperionsoft, an AI consulting firm. Collaborating with a team of AI and data experts, he is reinventing the way we live and work.
 
 Prior to Hyperionsoft, Cho-Nan spent almost a decade at fintech startups and mid-size companies as the Chief Technology Officer, building a track record of implementing strategic machine learning and technology initiatives for online lenders. As an early founding team member, he helped grow these businesses from the ground up and used AI technologies to manage credit risk and underwriting. 
 
