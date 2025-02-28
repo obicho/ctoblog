@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>product on Cho-Nan Tsai CTO media interviews, essays and talks</title>
+    <link>https://obicho.github.io/tags/product/</link>
+    <description>Recent content in product on Cho-Nan Tsai CTO media interviews, essays and talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Oct 2022 00:42:36 -0700</lastBuildDate><atom:link href="https://obicho.github.io/tags/product/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Time is of the essence</title>
+      <link>https://obicho.github.io/essays/time-is-of-the-essence/</link>
+      <pubDate>Fri, 07 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/time-is-of-the-essence/</guid>
+      <description>Did you know that AWS Lambda service bills at a granularity of 1ms. (Lambda is a compute service that lets you run code without provisioning or managing servers.)
+Think about that for a second.
+It’s like you don’t need to pay for a 1 gallon fresh-squeezed orange juice from Costco. Instead, you just pay for what you drink, even if it is a tiny sip. Freshness guaranteed, every time.
+There are many advantages to using something like AWS Lamda.</description>
+    </item>
+    
+  </channel>
+</rss>

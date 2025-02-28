@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>infrastructure on Cho-Nan Tsai CTO media interviews, essays and talks</title>
+    <link>https://obicho.github.io/categories/infrastructure/</link>
+    <description>Recent content in infrastructure on Cho-Nan Tsai CTO media interviews, essays and talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Oct 2022 00:42:36 -0700</lastBuildDate><atom:link href="https://obicho.github.io/categories/infrastructure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A smarter crosswalk</title>
+      <link>https://obicho.github.io/essays/a-smarter-crosswalk/</link>
+      <pubDate>Mon, 10 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/a-smarter-crosswalk/</guid>
+      <description>Crosswalks have been around a long time but they don’t ever change. I closely observed one today. There is a sign that says ‘Push button for Pedestrian Crossing’. And then, there is a countdown signal forever pestering people to walk faster.
+I think this is very dated. With Tesla able to autopilot itself today, I am sure the technology exists for sensors and cameras to detect the presence of pedestrians.</description>
+    </item>
+    
+    <item>
+      <title>Crumbling infrastructure in America</title>
+      <link>https://obicho.github.io/essays/crumbling-infrastructure-in-america/</link>
+      <pubDate>Wed, 05 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/crumbling-infrastructure-in-america/</guid>
+      <description>This summer we took Amtrak from Los Angeles to San Francisco. What was supposed to be a joyful, scenic ride turned out to be a laborious trip. The train ride going north took 10 hours. Although we had bought tickets online, it was not clear to me why we were only assigned seats once we boarded the train. The conductor scanned the barcode on my ticket, and, assuming the ticket was valid, placed a little slip of paper above my seat that indicated what stop we were getting off at.</description>
+    </item>
+    
+  </channel>
+</rss>

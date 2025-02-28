@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Essays on Cho-Nan Tsai CTO media interviews, essays and talks</title>
+    <link>https://obicho.github.io/essays/</link>
+    <description>Recent content in Essays on Cho-Nan Tsai CTO media interviews, essays and talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Feb 2025 00:42:36 -0700</lastBuildDate><atom:link href="https://obicho.github.io/essays/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test1</title>
+      <link>https://obicho.github.io/essays/test-1/test-1/</link>
+      <pubDate>Thu, 13 Feb 2025 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/test-1/test-1/</guid>
+      <description>test 1</description>
+    </item>
+    
+    <item>
+      <title>I used AI to create this music track</title>
+      <link>https://obicho.github.io/essays/ai-cinematic-track/</link>
+      <pubDate>Wed, 26 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/ai-cinematic-track/</guid>
+      <description>I don&amp;rsquo;t know any musical instrument or how to read a score.
+I never had any type of music education.
+I may even be a bit tone deaf.
+So I just went to an AI program and clicked a button.
+And, this came out.
+I thought this may be good enough for the music to a game trailer.
+voilà.</description>
+    </item>
+    
+    <item>
+      <title>Path to CTO</title>
+      <link>https://obicho.github.io/essays/path-to-cto/</link>
+      <pubDate>Tue, 25 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/path-to-cto/</guid>
+      <description>I have been meeting a lot of great technical leaders lately. Not a single one of them had the same career path. Here is an ascii illustration of various possible ways you can become a CTO. It could be useful for someone navigating their career in software technology.
+cto, public company cto, private company cto, divisional, private company svp of technology svp of engineering vp of technology vp of engineering director of technology director of engineering director of product mgmt engineering manager CIO sr tech lead IT SVP tech lead IT VP architect IT Director principle engineer IT Project Manager evangelist cto, startup staff engineer IT Program Manager solution engineer project manager senior software engineer senior backend senior frontend sr devops sr full stack IT Manager sales engineer technical program manager software engineer backend engineer frontend engineer devops engineer fullustack IT Helpdesk developer advocate product manager junior software engineer intern ▲ │ ┌───┴───┐ │START │ │ │ └───────┘ </description>
+    </item>
+    
+    <item>
+      <title>Top 10 books for engineering managers</title>
+      <link>https://obicho.github.io/essays/top-10-reading-list-for-eng-mgr/</link>
+      <pubDate>Mon, 24 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/top-10-reading-list-for-eng-mgr/</guid>
+      <description> The Mythical Man Month The Pragmatic Programmer Clean Code Peopleware Code Complete The Lean Startup The Cold Start Problem The Effective Executive The Culture Code Turn The Ship Around </description>
+    </item>
+    
+    <item>
+      <title>Deep fake videos used to defraud</title>
+      <link>https://obicho.github.io/essays/deep-fake-videos-used-to-defraud/</link>
+      <pubDate>Fri, 21 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/deep-fake-videos-used-to-defraud/</guid>
+      <description>Have you been duped by deep fake videos during the hiring process? Earlier year, we almost did, while we were hiring developers.
+We put out an Indeed job posting, and we started getting job inquiries almost right away. After we started screening, junior screeners reported seeing something odd.
+Some said that candidates’ enunciation did not match the shape of mouths in the Zoom video. Some complained the lag was so bad that it was impossible to conduct a video interview.</description>
+    </item>
+    
+    <item>
+      <title>Career planning, or not</title>
+      <link>https://obicho.github.io/essays/career-planning-or-not/</link>
+      <pubDate>Thu, 20 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/career-planning-or-not/</guid>
+      <description>The amazing thing about meeting people in tech is that you can put people in two camps. The first camp is the founder type: they have a strong vision and want to build something to change the world. You can feel the energy blasting from every cell when they speak.
+People in the second camp are professionals. They work for wonderful corporations and they are masters in what they do. Every step of the way, they work hard to build their career.</description>
+    </item>
+    
+    <item>
+      <title>A hacker walks away with $47M legally while a CISO is convicted for doing his job</title>
+      <link>https://obicho.github.io/essays/a-hacker-walks-away-with-47m-legally-while-a-ciso-is-convicted-for-doing-his-job/</link>
+      <pubDate>Wed, 19 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/a-hacker-walks-away-with-47m-legally-while-a-ciso-is-convicted-for-doing-his-job/</guid>
+      <description>A Modern “Crime and Punishment” interpretation - Joe Sullivan and Avraham Eisenberg.
+News headline #1: Oct 5th 2022
+Former Chief Security Officer Of Uber Convicted Of Federal Charges For Covering Up Data Breach Involving Millions Of Uber User Records
+News Headline #2: Oct 15th 2022
+Hacker behind the Mango Markets exploit keeps $47M and returns $67M to the DeFi platform after a Mango community vote; he claims his actions were legal</description>
+    </item>
+    
+    <item>
+      <title>Bye bye, personal privacy</title>
+      <link>https://obicho.github.io/essays/bye-bye-personal-privacy/</link>
+      <pubDate>Tue, 18 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/bye-bye-personal-privacy/</guid>
+      <description>It is hard to stop devices tracking humans. Devices are everywhere, whether you want it or not.
+If you use a phone, you are going to get tracked.
+If you use Alexa, you are going to get tracked.
+If you use a Chromecast or Amazon fire TV stick, you are going to get tracked.
+If you have IoT devices, you are going to get tracked.
+If you live in a smart city with a ton of surveillance cameras, like London or Paris, you are going to get tracked.</description>
+    </item>
+    
+    <item>
+      <title>Myths about data scientists</title>
+      <link>https://obicho.github.io/essays/myths-about-data-scientists/</link>
+      <pubDate>Mon, 17 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/myths-about-data-scientists/</guid>
+      <description>You can manage data scientists like you manage software developers. I made the mistake of assigning story points on tasks for data scientists to work on. That didn&amp;rsquo;t work at all. Data scientists do not work well in those capacities. They are better suited in applying themselves to experiments. That means setting up a hypothesis and figuring out if it is true or false.
+Data scientists don’t need to be a business domain expert.</description>
+    </item>
+    
+    <item>
+      <title>Startup, totally distributed</title>
+      <link>https://obicho.github.io/essays/startup-totally-distributed/</link>
+      <pubDate>Fri, 14 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/startup-totally-distributed/</guid>
+      <description>Lately I noticed many startups operate in a totally distributed fashion. They don’t have an office. Founders / founding team live in different city / state / country. Their funding comes from VCs and angel investors in different city / state / country. They are on Zoom a lot. They meet once a quarter or year for a team building event. When possible, they outsource non-core competencies to a third party.</description>
+    </item>
+    
+    <item>
+      <title>Git and blockchain</title>
+      <link>https://obicho.github.io/essays/git-and-blockchain/</link>
+      <pubDate>Thu, 13 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/git-and-blockchain/</guid>
+      <description>Both git and blockchain share the same DNA; they are all built on top of a data structure called Merkle Tree.
+A Merkle tree is a tree structure where each node of the tree has an identifier that&amp;rsquo;s the hash of its contents
+Git is used by software developers around the world to work distributedly so that collaboration among them becomes manageable.This technology is widely adopted, is indispensable and has a good reputation.</description>
+    </item>
+    
+    <item>
+      <title>Tech hubs in South America</title>
+      <link>https://obicho.github.io/essays/tech-hubs-in-south-america/</link>
+      <pubDate>Wed, 12 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/tech-hubs-in-south-america/</guid>
+      <description>Over the last decade, South America has been a popular place to recruit technology talents. I really enjoy working with technology teams from the region. Its close proximity to US, time zone overlap and a large talent pool are the main reasons why it has worked for me.
+Here are my favorite places:
+Mexico’s Guadalajara Guadalajara is a gem of the Latin American software industry and has become a cutting-edge city with a robust tech ecosystem.</description>
+    </item>
+    
+    <item>
+      <title>Myths about software engineers</title>
+      <link>https://obicho.github.io/essays/myths-about-software-engineers/</link>
+      <pubDate>Tue, 11 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/myths-about-software-engineers/</guid>
+      <description>They are super opinionated. An engineer who likes to apply one particular technology on every problem is not a good engineer. They are just being opinionated for no good reason. A good engineer would look at the problem, analyze it and then find the best solution (tools, programming language, etc). Experienced engineers would definitely have an opinion about different technologies but they would never enforce.
+They are difficult to work with.</description>
+    </item>
+    
+    <item>
+      <title>A smarter crosswalk</title>
+      <link>https://obicho.github.io/essays/a-smarter-crosswalk/</link>
+      <pubDate>Mon, 10 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/a-smarter-crosswalk/</guid>
+      <description>Crosswalks have been around a long time but they don’t ever change. I closely observed one today. There is a sign that says ‘Push button for Pedestrian Crossing’. And then, there is a countdown signal forever pestering people to walk faster.
+I think this is very dated. With Tesla able to autopilot itself today, I am sure the technology exists for sensors and cameras to detect the presence of pedestrians.</description>
+    </item>
+    
+    <item>
+      <title>Time is of the essence</title>
+      <link>https://obicho.github.io/essays/time-is-of-the-essence/</link>
+      <pubDate>Fri, 07 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/time-is-of-the-essence/</guid>
+      <description>Did you know that AWS Lambda service bills at a granularity of 1ms. (Lambda is a compute service that lets you run code without provisioning or managing servers.)
+Think about that for a second.
+It’s like you don’t need to pay for a 1 gallon fresh-squeezed orange juice from Costco. Instead, you just pay for what you drink, even if it is a tiny sip. Freshness guaranteed, every time.
+There are many advantages to using something like AWS Lamda.</description>
+    </item>
+    
+    <item>
+      <title>Real Estate Agent Moms (dads)</title>
+      <link>https://obicho.github.io/essays/real-estate-moms-and-dads/</link>
+      <pubDate>Thu, 06 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/real-estate-moms-and-dads/</guid>
+      <description>Being a real estate agent has always been a good option for people who want to generate income while maintaining a flexible schedule. Often, they only work on weekends to show houses and then at night, after kids go to sleep, they would write up the contracts. During the week, they socialize and meet people physically. Agents too invest time on digital campaigns over emails and social media to bring about awareness.</description>
+    </item>
+    
+    <item>
+      <title>Crumbling infrastructure in America</title>
+      <link>https://obicho.github.io/essays/crumbling-infrastructure-in-america/</link>
+      <pubDate>Wed, 05 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/crumbling-infrastructure-in-america/</guid>
+      <description>This summer we took Amtrak from Los Angeles to San Francisco. What was supposed to be a joyful, scenic ride turned out to be a laborious trip. The train ride going north took 10 hours. Although we had bought tickets online, it was not clear to me why we were only assigned seats once we boarded the train. The conductor scanned the barcode on my ticket, and, assuming the ticket was valid, placed a little slip of paper above my seat that indicated what stop we were getting off at.</description>
+    </item>
+    
+    <item>
+      <title>Spicy duck tongue and stinky tofu</title>
+      <link>https://obicho.github.io/essays/spicy-duck-tongue-and-stinky-tofu/</link>
+      <pubDate>Tue, 04 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/spicy-duck-tongue-and-stinky-tofu/</guid>
+      <description>Before the pandemic, shopping for groceries used to be a giant production for my family. Every weekend, we would set aside a few hours, load our kids into our car, bring our shopping bags, pick some groceries at a local supermarket, bag everything, drive home, unload everything from the car, etc. And, repeat all over the following weekend. Argh!
+Then, came the pandemic, and everything changed!
+Instacart and other grocery shopping startups really started to enjoy a boom because nobody was going out.</description>
+    </item>
+    
+    <item>
+      <title>Cybersecurity at Uber (or lack thereof) and Be Like Water</title>
+      <link>https://obicho.github.io/essays/cybersecurity-at-uber/</link>
+      <pubDate>Mon, 03 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/cybersecurity-at-uber/</guid>
+      <description>Recently, Uber had a major cybersecurity incident. The hacker was able to gain access to everything, including their Amazon Web Service administrator account. This could have been really bad. Given Uber’s revenue was $17 billion (with a B) in 2021, that means – $48 million worth of revenue would have been lost a day if the hacker had shut the servers down! Imagine all those Uber drivers not being able to drive and everyday passengers getting stuck everywhere.</description>
+    </item>
+    
+    <item>
+      <title>CEO of tomorrow</title>
+      <link>https://obicho.github.io/essays/ceo-of-tomorrow/</link>
+      <pubDate>Thu, 29 Sep 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/ceo-of-tomorrow/</guid>
+      <description>What percentage of Y Combinator founders are technical?
+Nobody really keeps track of this data. I looked. However, based on my research, it seems that typically at least one co-founder is more on the technical side within a startup. Anecdotally, I happen to know quite a few co-founders who are engineers by training and got funding from Mucker Capital.
+As more businesses become accessible online, it is almost impossible to ignore the fact that a person with a technical background is better suited to run a company.</description>
+    </item>
+    
+    <item>
+      <title>AI drew Steve Jobs eating sushi</title>
+      <link>https://obicho.github.io/essays/ai-drew-steve-jobs-eating-sushi/</link>
+      <pubDate>Wed, 28 Sep 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/ai-drew-steve-jobs-eating-sushi/</guid>
+      <description>Today I use an AI tool to draw a picture of Steve Jobs eating sushi. This is what I got:
+Remembering what I read in Steve Jobs by Walter Isaacson, Jobs&amp;rsquo; favorite food was sushi. Although Jobs had a turbulent relationship with Lisa, he often recounted the good times while eating sushi in Tokyo with his daughter. Trust me, I have tried on a number of different AI image generator sites, including DALL.</description>
+    </item>
+    
+    <item>
+      <title>Control freak</title>
+      <link>https://obicho.github.io/essays/control-freak/</link>
+      <pubDate>Tue, 27 Sep 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/control-freak/</guid>
+      <description>Lately, admin panel seems to be a recurring theme in my life. I had a discussion with someone at a startup about which one to use.
+Needless to say, there is plenty of options in the market place &amp;ndash; everything from home brew custom solution to managed services to low-code platforms. Stuff like this obviously requires some research before any commitment. Since the company needing this is a very early stage startup.</description>
+    </item>
+    
+    <item>
+      <title>An omakase sushi chef and a software engineer</title>
+      <link>https://obicho.github.io/essays/a-sushi-chef-and-a-programmer/</link>
+      <pubDate>Mon, 26 Sep 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/a-sushi-chef-and-a-programmer/</guid>
+      <description>Lately, I have been watching Michelin star sushi chefs on Youtube preparing fish for serving omakase behind a sushi bar. If you&amp;rsquo;re looking for a more traditional sushi restaurant experience, omakase is the way to go. You&amp;rsquo;ll be seated at the sushi bar in front of the chef, so you can easily chat and watch as your meal is made. The chef will also likely share stories and insights about their career, adding to the overall atmosphere.</description>
+    </item>
+    
+    <item>
+      <title>Asking for feedback</title>
+      <link>https://obicho.github.io/essays/asking-for-feedback/</link>
+      <pubDate>Sun, 25 Sep 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/asking-for-feedback/</guid>
+      <description>Often times, my direct reports ask for my feedback. It could be for a 1-on-1, a performance review or just a sync. Sometimes, I find it stifling though. Feedback sounds overpowering and very top down.
+I love giving feedback but what I love more is having a conversation. Conversation implies there is no judgement. It is a two-way discussion. From a manager&amp;rsquo;s point of view, it gives others the freedom to express.</description>
+    </item>
+    
+    <item>
+      <title>Hacking your tech career</title>
+      <link>https://obicho.github.io/essays/hacking-your-tech-career/</link>
+      <pubDate>Sat, 03 Sep 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/hacking-your-tech-career/</guid>
+      <description>Some time in spring this year, I went to UCLA to recruit interns. While I was there, I gave a talk which ended up attracting quite a few interns working with me. Some people really enjoyed the talk so I decided to clean up my notes and publish them here. Hopefully, you will find it useful, too.
+The Origin:
+Many years ago, there was a college kid who was interested in an internship position at a tech startup.</description>
+    </item>
+    
+    <item>
+      <title>The Wire China Interview: About Beijing startup scene</title>
+      <link>https://obicho.github.io/essays/the-wire-china-interview-about-beijing-startup-scene/</link>
+      <pubDate>Thu, 26 May 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/the-wire-china-interview-about-beijing-startup-scene/</guid>
+      <description>Media Interview Recently, I was interviewed for an article in The Wire China about my Beijing startup experience in 2015.
+Read the full article here.</description>
+    </item>
+    
+    <item>
+      <title>Preparing for a career in fintech: A conversation with Cho-Nan Tsai, a Fintech CTO</title>
+      <link>https://obicho.github.io/essays/preparing-for-a-career-in-fintech/</link>
+      <pubDate>Tue, 27 Jul 2021 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/preparing-for-a-career-in-fintech/</guid>
+      <description>I recently gave an interview on the topic of career preparation in fintech. The interview was conducted by Trilogy Education Service which is the company that&amp;rsquo;s running Fintech Bootcamp program at Columbia Unviersity. The entire interview is here.
+The article/interview was published in summer 2021 on Columbia Engineering School Bootcamp Program website</description>
+    </item>
+    
+    <item>
+      <title>Open Letter: Reflecting on the recruiting event at Caltech</title>
+      <link>https://obicho.github.io/essays/open_letter_reflecting_on_the_recruiting_event_at_caltech/</link>
+      <pubDate>Mon, 14 Oct 2019 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/open_letter_reflecting_on_the_recruiting_event_at_caltech/</guid>
+      <description>Hello Team,
+Today we had a recruiting event at Caltech (https://en.wikipedia.org/wiki/California_Institute_of_Technology) and I was humbled by the experience.
+It was intimidating at first. For the very first time, I saw Camino Financial trying to recruit, in the physical world, alongside great technology giants like Google, Facebook and Activision. I was literally flanked by a Google booth to my right and a Facebook/Instagram booth to my left. To make matters worse, I was outnumbered (each company had at least 4 engineers per booth) and I was a little late to the campus (carried our poster and my computer monitor on my own while trying to find parking, after our sprint planning meeting).</description>
+    </item>
+    
+    <item>
+      <title>Transformation</title>
+      <link>https://obicho.github.io/essays/transformation/</link>
+      <pubDate>Thu, 26 Sep 2019 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/transformation/</guid>
+      <description>A message sent through Slack to the team announcing an internship graduation.
+A long long time ago, there was a boy who wasn’t fortunate in his career. After graduating from college, he had been in transition a few times, working on stuff that was neither meaningful nor rewarding.
+One day, he came across a job posting at Camino for an internship opportunity. In winter, we interviewed him but we didn’t bring him onboard.</description>
+    </item>
+    
+    <item>
+      <title>Feedback to Columbia Magazine on the Cyberwarfare article</title>
+      <link>https://obicho.github.io/essays/feedback-to-columbia-magazine-on-cyberwarfare-article/</link>
+      <pubDate>Sat, 13 Jul 2019 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/feedback-to-columbia-magazine-on-cyberwarfare-article/</guid>
+      <description>I have been reading Columbia Magazine for years but this is the first time I have written a feedback to its editor. It was my reaction to a rather interesting interview with Jason Healy, a senior researcher Scholar at Columbia | SIPA (where I spent many hours studying in its library during my undergrad years). The entire interview is here.
+My response to the article:
+Your interview with Jason Healey couldn&amp;rsquo;t be more timely and spot on.</description>
+    </item>
+    
+    <item>
+      <title>How a fintech company ended up next to Skid Row</title>
+      <link>https://obicho.github.io/essays/how-a-fintech-company-ended-up-next-to-skid-row/</link>
+      <pubDate>Sat, 01 Sep 2018 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/how-a-fintech-company-ended-up-next-to-skid-row/</guid>
+      <description>A sickly-looking man, walking like a zombie, crossed my path in the middle of the road as I drove through Skid Row to get to office. While waiting for him to pass, I looked to the left and only to find more disturbing scenes: a few homeless people in a tent shooting drugs up their arms and a soup kitchen filled with people whose despair-stricken eyes were staring right back at me.</description>
+    </item>
+    
+    <item>
+      <title>A CTO&#39;s internship program out of a Los Angeles Startup</title>
+      <link>https://obicho.github.io/essays/a-cto-internship-program-out-of-a-los-angeles-startup/</link>
+      <pubDate>Wed, 13 Dec 2017 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/a-cto-internship-program-out-of-a-los-angeles-startup/</guid>
+      <description>In 1999 while still a sophomore in college, I was given a chance that completely changed the course of my life. I met Kaoru Hayashi, the CEO and co-founder of a Tokyo tech startup called Digital Garage (now a publicly traded company in Japan) and he offered me a 3-month internship at his startup in Tokyo. Till this date, I still cherish every moment of that internship experience - learning how to code for the first time in Python and Zope, being exposed to open source technologies, meeting up with Joi Ito (then an entrepreneur, now a director at MIT Media Lab), supporting a live web coverage at Fuji Rock concert, hanging out with cool Tokyo teenagers and more.</description>
+    </item>
+    
+    <item>
+      <title>A CTO’s Startup Journey in Beijing Zhongguancun Science Park</title>
+      <link>https://obicho.github.io/essays/a-cto-s-startup-journey-in-beijing-zhongguancun-science-park/</link>
+      <pubDate>Thu, 03 Dec 2015 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/a-cto-s-startup-journey-in-beijing-zhongguancun-science-park/</guid>
+      <description>After 10+ hours of flight, I finally arrived in Beijing.
+The invitation was hard to resist. The opportunity to start a new venture in Beijing sounded like an adventure not to be missed. This brought me to Beijing. My other co-founders literally got the keys to our loft that very same day I arrived. I was greeted by my CEO who just dashed in from the hospital as someone in his family had passed away a few hours earlier.</description>
+    </item>
+    
+  </channel>
+</rss>

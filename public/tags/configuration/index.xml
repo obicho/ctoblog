@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>configuration on Cho-Nan Tsai CTO media interviews, essays and talks</title>
+    <link>https://obicho.github.io/tags/configuration/</link>
+    <description>Recent content in configuration on Cho-Nan Tsai CTO media interviews, essays and talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Sep 2022 00:42:36 -0700</lastBuildDate><atom:link href="https://obicho.github.io/tags/configuration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An omakase sushi chef and a software engineer</title>
+      <link>https://obicho.github.io/essays/a-sushi-chef-and-a-programmer/</link>
+      <pubDate>Mon, 26 Sep 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/a-sushi-chef-and-a-programmer/</guid>
+      <description>Lately, I have been watching Michelin star sushi chefs on Youtube preparing fish for serving omakase behind a sushi bar. If you&amp;rsquo;re looking for a more traditional sushi restaurant experience, omakase is the way to go. You&amp;rsquo;ll be seated at the sushi bar in front of the chef, so you can easily chat and watch as your meal is made. The chef will also likely share stories and insights about their career, adding to the overall atmosphere.</description>
+    </item>
+    
+  </channel>
+</rss>

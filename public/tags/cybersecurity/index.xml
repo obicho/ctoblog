@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cybersecurity on Cho-Nan Tsai CTO media interviews, essays and talks</title>
+    <link>https://obicho.github.io/tags/cybersecurity/</link>
+    <description>Recent content in cybersecurity on Cho-Nan Tsai CTO media interviews, essays and talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Oct 2022 00:42:36 -0700</lastBuildDate><atom:link href="https://obicho.github.io/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A hacker walks away with $47M legally while a CISO is convicted for doing his job</title>
+      <link>https://obicho.github.io/essays/a-hacker-walks-away-with-47m-legally-while-a-ciso-is-convicted-for-doing-his-job/</link>
+      <pubDate>Wed, 19 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/a-hacker-walks-away-with-47m-legally-while-a-ciso-is-convicted-for-doing-his-job/</guid>
+      <description>A Modern “Crime and Punishment” interpretation - Joe Sullivan and Avraham Eisenberg.
+News headline #1: Oct 5th 2022
+Former Chief Security Officer Of Uber Convicted Of Federal Charges For Covering Up Data Breach Involving Millions Of Uber User Records
+News Headline #2: Oct 15th 2022
+Hacker behind the Mango Markets exploit keeps $47M and returns $67M to the DeFi platform after a Mango community vote; he claims his actions were legal</description>
+    </item>
+    
+    <item>
+      <title>Cybersecurity at Uber (or lack thereof) and Be Like Water</title>
+      <link>https://obicho.github.io/essays/cybersecurity-at-uber/</link>
+      <pubDate>Mon, 03 Oct 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/cybersecurity-at-uber/</guid>
+      <description>Recently, Uber had a major cybersecurity incident. The hacker was able to gain access to everything, including their Amazon Web Service administrator account. This could have been really bad. Given Uber’s revenue was $17 billion (with a B) in 2021, that means – $48 million worth of revenue would have been lost a day if the hacker had shut the servers down! Imagine all those Uber drivers not being able to drive and everyday passengers getting stuck everywhere.</description>
+    </item>
+    
+    <item>
+      <title>Feedback to Columbia Magazine on the Cyberwarfare article</title>
+      <link>https://obicho.github.io/essays/feedback-to-columbia-magazine-on-cyberwarfare-article/</link>
+      <pubDate>Sat, 13 Jul 2019 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/feedback-to-columbia-magazine-on-cyberwarfare-article/</guid>
+      <description>I have been reading Columbia Magazine for years but this is the first time I have written a feedback to its editor. It was my reaction to a rather interesting interview with Jason Healy, a senior researcher Scholar at Columbia | SIPA (where I spent many hours studying in its library during my undergrad years). The entire interview is here.
+My response to the article:
+Your interview with Jason Healey couldn&amp;rsquo;t be more timely and spot on.</description>
+    </item>
+    
+  </channel>
+</rss>

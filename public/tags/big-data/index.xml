@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>big data on Cho-Nan Tsai CTO media interviews, essays and talks</title>
+    <link>https://obicho.github.io/tags/big-data/</link>
+    <description>Recent content in big data on Cho-Nan Tsai CTO media interviews, essays and talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Sep 2020 00:42:36 -0700</lastBuildDate><atom:link href="https://obicho.github.io/tags/big-data/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Brown Bag Tech Talks: 6 Common Traps in Data</title>
+      <link>https://obicho.github.io/talks/six-common-traps-in-data/</link>
+      <pubDate>Wed, 30 Sep 2020 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/talks/six-common-traps-in-data/</guid>
+      <description>About the Talk Hosted a talk to discuss common issues when a startup is beginning to build out their data projects.</description>
+    </item>
+    
+    <item>
+      <title>How to (gracefully) jump start data science initiatives at a start-up</title>
+      <link>https://obicho.github.io/talks/how-to-gracefully-jump-start-data-science-initiatives-at-a-start-up/</link>
+      <pubDate>Fri, 18 Oct 2019 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/talks/how-to-gracefully-jump-start-data-science-initiatives-at-a-start-up/</guid>
+      <description>Conference 1
+Conference 2
+Slides for IDEAS data science talk PPTX
+Slides for IDEAS data science talk ODP
+Slides for IDEAS data science talk PDF
+About the Talk While machine learning and artificial intelligence can deliver a ton of value to businesses, there are still many businesses today struggling to get started with data science initiatives. Do you buy data or collect data? What type of talent to hire to get started on the first project?</description>
+    </item>
+    
+    <item>
+      <title>Big Data Opportunities in the Fintech Space</title>
+      <link>https://obicho.github.io/talks/big-data-opportunities-in-the-fintech-space/</link>
+      <pubDate>Sat, 20 Aug 2016 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/talks/big-data-opportunities-in-the-fintech-space/</guid>
+      <description>About the Talk Big data has impacted fintech in many ways. Some of the most creative applications of big data technology have been in the areas of fraud detection, marketing and credit underwriting for small business loans. This talk looks at some major players and how big data is leading innovations and shaping strategies in the space.
+About Camino Financial Camino Financial is a credit marketplace matching small businesses with affordable business loans, with interest rates starting at 5.</description>
+    </item>
+    
+  </channel>
+</rss>

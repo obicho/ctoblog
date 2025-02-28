@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>architecture on Cho-Nan Tsai CTO media interviews, essays and talks</title>
+    <link>https://obicho.github.io/tags/architecture/</link>
+    <description>Recent content in architecture on Cho-Nan Tsai CTO media interviews, essays and talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Sep 2022 00:42:36 -0700</lastBuildDate><atom:link href="https://obicho.github.io/tags/architecture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Control freak</title>
+      <link>https://obicho.github.io/essays/control-freak/</link>
+      <pubDate>Tue, 27 Sep 2022 00:42:36 -0700</pubDate>
+      
+      <guid>https://obicho.github.io/essays/control-freak/</guid>
+      <description>Lately, admin panel seems to be a recurring theme in my life. I had a discussion with someone at a startup about which one to use.
+Needless to say, there is plenty of options in the market place &amp;ndash; everything from home brew custom solution to managed services to low-code platforms. Stuff like this obviously requires some research before any commitment. Since the company needing this is a very early stage startup.</description>
+    </item>
+    
+  </channel>
+</rss>
